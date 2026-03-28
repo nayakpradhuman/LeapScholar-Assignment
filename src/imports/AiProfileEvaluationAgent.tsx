@@ -1,10 +1,10 @@
 import svgPaths from "./svg-sxxz339qqa";
-import imgImageLeapScholar from "figma:asset/1f3b84c3d83b7183865e1f49096b8d604fc09c10.png";
-import imgImagePriyaSharma from "figma:asset/cf36fbf68f90ca462bd94e8e8f08cf9410cf5d49.png";
-import imgImageRahulMenon from "figma:asset/504ab95e90b01482ca411757191b7ae1c4a08bf4.png";
-import imgImageAnanyaIyer from "figma:asset/58d3517d79e8b7536bbb138ad12aee379503f9dc.png";
-import imgProfileEvalCta from "figma:asset/0a5bd322d24870990f2a0065fb0d695998499866.png";
-import imgImageLeapScholar1 from "figma:asset/539bd2ccdd062c6bf4d09b17a1a878af3b7c656c.png";
+import imgImageLeapScholar from "../assets/1f3b84c3d83b7183865e1f49096b8d604fc09c10.png";
+import imgImagePriyaSharma from "../assets/cf36fbf68f90ca462bd94e8e8f08cf9410cf5d49.png";
+import imgImageRahulMenon from "../assets/504ab95e90b01482ca411757191b7ae1c4a08bf4.png";
+import imgImageAnanyaIyer from "../assets/58d3517d79e8b7536bbb138ad12aee379503f9dc.png";
+import imgProfileEvalCta from "../assets/0a5bd322d24870990f2a0065fb0d695998499866.png";
+import imgImageLeapScholar1 from "../assets/539bd2ccdd062c6bf4d09b17a1a878af3b7c656c.png";
 
 function ImageLeapScholar() {
   return (

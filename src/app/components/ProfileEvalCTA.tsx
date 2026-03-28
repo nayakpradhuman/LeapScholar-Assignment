@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-import imgBg from "figma:asset/0a5bd322d24870990f2a0065fb0d695998499866.png";
+import imgBg from "../../assets/0a5bd322d24870990f2a0065fb0d695998499866.png";
 
 export function ProfileEvalCTA({ onOpenModal }: { onOpenModal: () => void }) {
   return (

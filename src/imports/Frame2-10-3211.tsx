@@ -1,4 +1,4 @@
-import imgLeapScholarIconJpeg from "figma:asset/f079d52ef0cbd818e41ad86ed76b474839709c68.png";
+import imgLeapScholarIconJpeg from "../assets/f079d52ef0cbd818e41ad86ed76b474839709c68.png";
 
 export default function Frame() {
   return (

@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import { ArrowRight, ArrowLeft } from "lucide-react";
-import imgPriya from "figma:asset/cf36fbf68f90ca462bd94e8e8f08cf9410cf5d49.png";
-import imgRahul from "figma:asset/504ab95e90b01482ca411757191b7ae1c4a08bf4.png";
-import imgAnanya from "figma:asset/58d3517d79e8b7536bbb138ad12aee379503f9dc.png";
+import imgPriya from "../../assets/cf36fbf68f90ca462bd94e8e8f08cf9410cf5d49.png";
+import imgRahul from "../../assets/504ab95e90b01482ca411757191b7ae1c4a08bf4.png";
+import imgAnanya from "../../assets/58d3517d79e8b7536bbb138ad12aee379503f9dc.png";
 
 const testimonials = [
   {
